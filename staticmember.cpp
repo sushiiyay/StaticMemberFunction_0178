@@ -12,4 +12,6 @@ public:
     //deklarasi prosedur setID() dan printAll()
     void setID();
     void printAll();
+
+    //pembuatan constructur Mahasiswa dengan parameter pnama
 }
